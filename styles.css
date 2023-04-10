@@ -9,11 +9,12 @@
 	font-size:48px;
 }
 .btn{
-	font-size:30px;
+	font-size:35px;
 	width:150px;
-	height:60px;
+	height:45px;
 	border-radius:20%;
 	background-color:orangered;
 	color:white;
 	border:none;
+	padding:6px;
 }
