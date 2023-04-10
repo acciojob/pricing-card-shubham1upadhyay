@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+.card{
+	width: 60%;
+	height:100%;
+	background-color: #f5f5f5;
+	padding:8%;
+}
+.h_t{
+	font-size:48px;
+}
+.btn{
+	font-size:30px;
+	width:150px;
+	height:60px;
+	border-radius:20%;
+	background-color:orangered;
+	color:white;
+	border:none;
+}
